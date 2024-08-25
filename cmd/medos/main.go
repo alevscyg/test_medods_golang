@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"medos/interlan/app/apiserver"
-	"medos/interlan/app/apiserver/config"
+	"medods/interlan/app/apiserver"
+	"medods/interlan/app/apiserver/config"
 
 	"github.com/BurntSushi/toml"
 )

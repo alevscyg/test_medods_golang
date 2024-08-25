@@ -1,6 +1,6 @@
 package storage
 
-import "medos/interlan/app/model"
+import "medods/interlan/app/model"
 
 // RefreshTokenRepository ...
 type RefreshTokenRepository interface {

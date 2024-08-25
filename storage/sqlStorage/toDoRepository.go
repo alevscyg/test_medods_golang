@@ -3,8 +3,8 @@ package sqlstorage
 import (
 	"database/sql"
 	"fmt"
-	"medos/interlan/app/model"
-	"medos/storage"
+	"medods/interlan/app/model"
+	"medods/storage"
 	"net/smtp"
 	"time"
 

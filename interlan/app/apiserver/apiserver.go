@@ -2,8 +2,8 @@ package apiserver
 
 import (
 	"database/sql"
-	"medos/interlan/app/apiserver/config"
-	sqlstorage "medos/storage/sqlStorage"
+	"medods/interlan/app/apiserver/config"
+	sqlstorage "medods/storage/sqlStorage"
 	"net/http"
 )
 

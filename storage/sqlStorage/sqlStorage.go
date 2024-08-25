@@ -3,7 +3,7 @@ package sqlstorage
 import (
 	"database/sql"
 
-	"medos/storage"
+	"medods/storage"
 
 	_ "github.com/lib/pq" // ...
 )
