@@ -1,2 +1,2 @@
 bind_addr = ":3000"
-database_url = "user=postgres password=qwe host=localhost dbname=go_medos sslmode=disable"
+database_url = "user=postgres password=qwe host=localhost dbname=go_medods sslmode=disable"
